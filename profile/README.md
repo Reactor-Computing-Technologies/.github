@@ -23,5 +23,8 @@ Service Areas:
 Financial Districts, 
 Toronto, New York, Chicago
 
-Reactor Computing Techonologies
+Reactor Computing Technologies
 "Something New"
+Adamant (computer), Ethereal (cellphone).
+Lineups: Recititude, Constellation, Element.
+Developments: Construct, Entity.
