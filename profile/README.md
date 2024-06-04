@@ -26,5 +26,5 @@ Toronto, New York, Chicago
 Reactor Computing Technologies
 "Something New"
 Adamant (computer), Ethereal (cellphone).
-Lineups: Recititude, Constellation, Element.
+Lineups: Rectitude, Constellation, Element.
 Developments: Construct, Entity.
